@@ -5,3 +5,6 @@ Colors
 Vibrant
 Dark Mode
 video
+Payment Option 
+Send Money 
+Recieve Money
